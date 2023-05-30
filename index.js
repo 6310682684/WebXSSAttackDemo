@@ -94,3 +94,4 @@ app.post('/transfer', (req, res) => {
 })
 
 app.listen(4000)
+console.log("running : http://localhost:4000/")
